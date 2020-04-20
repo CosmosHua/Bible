@@ -1,7 +1,9 @@
-# Custom for Hua:
+# Custom for Hua: Big Files
 *.mp4
 *.mkv
 *.fbr
+A_Body_of_Divinity_Westminster Larger Catechism-Thomas Ridgely.pdf
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
